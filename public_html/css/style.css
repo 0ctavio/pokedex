@@ -1,0 +1,38 @@
+body {
+    background-color: #E56B0C;
+}
+
+.container {
+    text-align: center;
+    margin: 20px;
+}
+
+.introducer {
+    border-radius: 20px;
+    border: solid 2px #009999;
+    box-shadow: 5px 5px 20px #064488;
+    font-size: 20px;
+    outline: none;
+    text-align: center;
+    width: 600px;
+}
+
+.pokemonCard {
+    background-color: #b6e00f;
+    border: solid 10px #a04e10;
+    border-radius: 30px;
+    width: 250px;
+    box-shadow: inset 5px 5px 5px #53660a;
+}
+
+ul {
+    list-style: none;
+    display: inline-block;
+    margin: 20px;
+}
+
+li {
+    font-size: 20px;
+    padding-left: 20px;
+    color: #53660a;
+}
